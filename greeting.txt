@@ -1,0 +1,40 @@
+00:00 Summary of Nodejs
+01:26 npm init
+04:13 What is npm
+07:11 What is package.json in node js
+10:33 Create server file in node js
+11:48 What is function in javascript
+12:43 nodemon in node js
+14:22 function in javascript
+18:44 What is callback function in javascript
+28:11 core modules in node js
+29:10 fs module node js
+35:50 Import files in node js
+38:49 module.exports es6
+41:20 lodash package in nodejs
+46:44 Summary of today's node.js lecture
+
+
+Hi Mubashir Ibrahim! 
+Hi Mubashir Ibrahim! 
+Hi Mubashir Ibrahim! 
+Hi Mubashir Ibrahim! 
+Hi Mubashir Ibrahim! 
+Hi Mubashir Ibrahim! 
+Hi Mubashir Ibrahim! 
+Hi Mubashir Ibrahim! 
+Hi saad! 
+Hi saad! 
+Hi saad! 
+Hi saad! 
+Hi saad! 
+Hi saad! 
+Hi saad! 
+Hi saad! 
+Hi saad! 
+Hi saad! 
+Hi saad! 
+Hi saad! 
+Hi saad! 
+Hi saad! 
+Hi saad! 
